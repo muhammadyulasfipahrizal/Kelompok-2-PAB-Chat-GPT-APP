@@ -81,18 +81,6 @@
                 android:padding="5dp"
                 android:textColor="@android:color/black" />
 
-            <ImageView
-                android:id="@+id/person"
-                android:layout_width="25dp"
-                android:layout_height="25dp"
-                android:layout_alignParentTop="true"
-                android:layout_marginStart="5dp"
-                android:layout_marginTop="5dp"
-                android:layout_marginEnd="5dp"
-                android:layout_marginBottom="5dp"
-                android:layout_toEndOf="@id/right_chat_text_view"
-                android:src="@drawable/ic_person" />
-
         </RelativeLayout>
 
     </com.google.android.material.card.MaterialCardView>
